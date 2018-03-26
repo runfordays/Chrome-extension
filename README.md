@@ -9,7 +9,7 @@ browser periodically, be able to have a timer, and a to do list.
 To make an extension make a folder and name a file in it called manifest.json.
 Once you made that file put this code in the file:
 
-*/ {
+ {
 	"manifest_version": 2,
 	"name": "My Cool Extension",
 	"version": "0.1",
@@ -19,4 +19,4 @@ Once you made that file put this code in the file:
 		],
 		"js": ["jquery-3.3.1.js", "content.js"]
 	}]
-}  */
+}  
