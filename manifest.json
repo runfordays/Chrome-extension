@@ -8,4 +8,7 @@
 		],
 		"js": ["jquery-3.3.1.js", "content.js"]
 	}]
+	"browser_action": {
+  "default_icon": "9fb4e9e8b308ec3476b08f42bd0fd6ac.png"
+}
 }
